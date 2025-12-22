@@ -25,7 +25,7 @@ This is a GitHub organization for the development of quantum many-body methods a
 </a>
 <a href="https://github.com/ManyBodyLab/TensorKitAdapters.jl">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=TensorKitAdapters.jl&show_owner=true&description_lines_count=3&theme=dark">
-    <img align="center" alt="TensorKitAdapters.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=TensorKitAdapters.jl&show_owner=true&description_lines_count=3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=TensorKitAdapters.jl&show_owner=true&description_lines_count=2&theme=dark">
+    <img align="center" alt="TensorKitAdapters.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=TensorKitAdapters.jl&show_owner=true&description_lines_count=2">
   </picture>
 </a>
