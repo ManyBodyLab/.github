@@ -30,7 +30,7 @@ This is a GitHub organization for the development of quantum many-body methods a
   </picture>
 </a>
 
-<a href="https://github.com/ManyBodyLab/DiagHamInterface.jl">
+<!-- <a href="https://github.com/ManyBodyLab/DiagHamInterface.jl">
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=DiagHamInterface.jl&show_owner=true&theme=dark">
     <img align="center" alt="DiagHamInterface.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=DiagHamInterface.jl&show_owner=true">
@@ -41,4 +41,4 @@ This is a GitHub organization for the development of quantum many-body methods a
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=MPSKitAdapters.jl&show_owner=true&description_lines_count=2&theme=dark">
     <img align="center" alt="MPSKitAdapters.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=ManyBodyLab&repo=MPSKitAdapters.jl&show_owner=true&description_lines_count=2">
   </picture>
-</a>
+</a> -->
